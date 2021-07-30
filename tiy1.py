@@ -1,2 +1,2 @@
-my_var="Hello everyone"
+my_var="Hi everyone"
 print(my_var)
