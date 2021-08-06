@@ -1,0 +1,6 @@
+their_name=input("what is your name?")
+print("Hi",their_name)
+print("To lowercase:",their_name.lower())
+print("To uppercase:",their_name.upper())
+print("To titlecase:",their_name.title())
+print(their_name.capitalize())
