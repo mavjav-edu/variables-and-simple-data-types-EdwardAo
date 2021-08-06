@@ -79,7 +79,7 @@ on each line.
 number in a variable. Then, using that variable, create a message that
 reveals your favorite number. Print that message.
 
-![favourite numbers jumping](fav_num.gif)
+![favourite numbers jumping](/fav_num.gif)
 
 ## TRY IT YOURSELF #4
 

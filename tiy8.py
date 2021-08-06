@@ -1,4 +1,4 @@
-print(5+3)
-print(9-1)
-print(8+0)
-print(1+7)
+print("5 + 3 =",5+3)
+print("9 - 1 =",9-1)
+print("8 + 0 =",8+0)
+print("1 + 7 =",1+7)
